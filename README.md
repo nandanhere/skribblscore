@@ -17,12 +17,13 @@ Skribblscore uses Tkinter to first take input from the user who wants to record 
 
 - If the user wishes to play on a public game they can choose to leave the default link provided.
 - Also, the option to get a graph drawn by either plotly or matplotlib is given.
-[![Input Window](https://github.com/nandanhere/skribblscore/blob/main/readme/dialogWindow.pngr)](https://github.com/nandanhere/skribblscore/blob/main/readme/dialogWindow.png)
+
+[![Input Window](https://github.com/nandanhere/skribblscore/blob/main/readme/dialogWindow.png)](https://github.com/nandanhere/skribblscore/blob/main/readme/dialogWindow.png)
 
 
 After clicking on the "Click to start!" button you will be directed to a new instance of your web browser.Click on Play! button and wait for the game to start. Skribblscore will automatically start scraping the scores when the game starts and stops when the game ends.
 ### Plotly Graphs
-[![Graph1]( https://github.com/nandanhere/skribblscore/blob/main/result.png)](https://github.com/nandanhere/skribblscore/blob/main/result.png)
+[![Graph1]( https://github.com/nandanhere/skribblscore/blob/main/winners.png)](https://github.com/nandanhere/skribblscore/blob/main/winners.png)
 [![Graph2](https://github.com/nandanhere/skribblscore/blob/main/scores.png)](https://github.com/nandanhere/skribblscore/blob/main/scores.png)
 ### MatplotLib Graph
 [![MatplotLib Graph](https://github.com/nandanhere/skribblscore/blob/main/readme/samplesc.png)](https://github.com/nandanhere/skribblscore/blob/main/readme/samplesc.png)
